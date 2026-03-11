@@ -1,0 +1,3 @@
+[pytest]
+addopts = -v -n auto --html=reports/report.html --self-contained-html
+testpaths = tests

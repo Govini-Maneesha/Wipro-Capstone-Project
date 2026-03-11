@@ -1,0 +1,14 @@
+2026-03-07 16:13:00,073 | INFO | Starting flight booking test
+2026-03-07 16:13:01,659 | INFO | Entering departure city
+2026-03-07 16:13:03,128 | INFO | Entering arrival city
+2026-03-07 16:13:05,339 | INFO | Selecting round trip
+2026-03-07 16:13:06,272 | INFO | Searching flights
+2026-03-07 16:13:16,113 | INFO | Applying filters
+2026-03-07 16:13:17,176 | INFO | Sorting flights
+2026-03-07 16:13:17,478 | INFO | Booking flight
+2026-03-07 16:13:17,742 | INFO | Filling booking details
+2026-03-07 16:13:23,735 | INFO | Selecting payment
+2026-03-07 16:13:28,069 | INFO | Waiting for invoice page
+2026-03-07 16:13:34,273 | INFO | Downloading invoice
+2026-03-07 16:13:41,636 | INFO | Verifying invoice download
+2026-03-07 16:13:41,650 | INFO | Flight booking test completed successfully
